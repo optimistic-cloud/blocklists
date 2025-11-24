@@ -3,6 +3,5 @@
 ! Description: This is a general blocklist.
 ! This list version is for AdGuard Home only.
 
-! Multiple brands
 ||meethue.com^
 ||ueiwsp.com^
